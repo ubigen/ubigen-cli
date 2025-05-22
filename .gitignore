@@ -1,0 +1,48 @@
+# Build outputs
+bin/
+obj/
+
+# Rider
+.idea/
+riderModule.iml
+*.sln.iml
+/_ReSharper.Caches/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+
+# Packages
+/packages/
+
+# Dotnet tools
+.dotnet_tool_restore/
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User secrets
+secrets.json
+.env
+
+# Test result files
+TestResults/
+*.trx
+
+# Sonar, coverage
+.coverage
+*.coveragexml
+*.coverage
