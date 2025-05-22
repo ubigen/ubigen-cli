@@ -114,17 +114,6 @@ https://github.com/ubigen/ubigen-starter
 4. `git commit -s -m "feat: explain what you did"`
 5. `git push && open PR` – we’ll review ASAP!
 
----
-
-## 📬 Contact
-
-* **Email:** [umitcivi@gmail.com](mailto:umitcivi@gmail.com)
-* **WhatsApp:** [+90 542 440 96 12](https://wa.me/905424409612)
-
-Feel free to reach out—feedback and feature requests are welcome.
-
----
-
 ## 📄 License
 
 Released under the **MIT License**. See [LICENSE](LICENSE) for details.
