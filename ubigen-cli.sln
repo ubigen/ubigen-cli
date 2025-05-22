@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{93A64FA3-4DB9-4B8E-BAD8-1F92105790A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ubigen.Cli", "Ubigen.Cli\Ubigen.Cli.csproj", "{AB6ED9E2-522D-494B-BC8B-24821BC76189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ubigen.Core", "Ubigen.Core\Ubigen.Core.csproj", "{3255E6CE-A110-48C4-BA1C-A5A801574A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6ED9E2-522D-494B-BC8B-24821BC76189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6ED9E2-522D-494B-BC8B-24821BC76189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6ED9E2-522D-494B-BC8B-24821BC76189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6ED9E2-522D-494B-BC8B-24821BC76189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3255E6CE-A110-48C4-BA1C-A5A801574A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3255E6CE-A110-48C4-BA1C-A5A801574A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3255E6CE-A110-48C4-BA1C-A5A801574A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3255E6CE-A110-48C4-BA1C-A5A801574A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB6ED9E2-522D-494B-BC8B-24821BC76189} = {93A64FA3-4DB9-4B8E-BAD8-1F92105790A3}
+		{3255E6CE-A110-48C4-BA1C-A5A801574A8D} = {93A64FA3-4DB9-4B8E-BAD8-1F92105790A3}
+	EndGlobalSection
+EndGlobal
